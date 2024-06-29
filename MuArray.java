@@ -2,7 +2,7 @@ public class MuArray {
     public static void main(String[] args) {
         
         int num[][] = new int[3][4];
-        int random = 0;
+       f
        
            
         for(int i=0;i<3;i++){
