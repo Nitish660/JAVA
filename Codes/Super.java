@@ -1,3 +1,4 @@
+package Codes;
 class Parent{
     String message = "Hello from Parent class";
 

@@ -1,3 +1,5 @@
+package Codes;
+
  class Human {
  
      private int age;

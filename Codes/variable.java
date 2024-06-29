@@ -1,3 +1,4 @@
+package Codes;
 public class variable {
     public static void main(String a[]){
         int num1 = 3;

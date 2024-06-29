@@ -1,4 +1,5 @@
- class  Person {
+package Codes;
+class  Person {
        int age;
        String name;
 
